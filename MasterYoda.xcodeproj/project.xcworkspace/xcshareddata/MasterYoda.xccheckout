@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>98B17CEE-F6AF-4276-843E-7C27A3EC9BCA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MasterYoda</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9B4438F8-675B-48BB-83BC-2D4D46EA5820</key>
+		<string>file:///Volumes/pd85DikleIND-1/Pradnya/MasterYoda</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MasterYoda.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9B4438F8-675B-48BB-83BC-2D4D46EA5820</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>file:///Volumes/pd85DikleIND-1/Pradnya/MasterYoda</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9B4438F8-675B-48BB-83BC-2D4D46EA5820</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9B4438F8-675B-48BB-83BC-2D4D46EA5820</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MasterYoda</string>
+		</dict>
+	</array>
+</dict>
+</plist>
